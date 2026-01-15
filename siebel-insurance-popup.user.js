@@ -14,7 +14,9 @@
 // @match        https://carsdms.inservices.tatamotors.com/*\
 // @run-at       document-end\
 // @grant        GM_xmlhttpRequest\
-// @connect      script.google.com\
+// @updateURL    https://github.com/anujchowdhury/siebel-insurance-popup/raw/refs/heads/main/siebel-insurance-popup.user.js\
+// @downloadURL  https://github.com/anujchowdhury/siebel-insurance-popup/raw/refs/heads/main/siebel-insurance-popup.user.js\
+\
 // ==/UserScript==\
 \
 \
