@@ -1,20 +1,21 @@
 // ==UserScript==
 // @name         Siebel Insurance Expiry Advisor Popup
 // @namespace    https://tcmotors.internal
-// @version      1.0.2
+// @version      1.0.3
 // @description  Insurance expiry popup inside Siebel job card
 // @match        https://carsdms.inservices.tatamotors.com/*
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
 // @updateURL    https://raw.githubusercontent.com/anujchowdhury/siebel-insurance-popup/main/siebel-insurance-popup.user.js
 // @downloadURL  https://raw.githubusercontent.com/anujchowdhury/siebel-insurance-popup/main/siebel-insurance-popup.user.js
+// @connect      script.googleusercontent.com
 
 // ==/UserScript==
 
 
 (function () {
     'use strict';
-    console.log("Insurance Popup Script v1.0.2 loaded");
+    console.log("Insurance Popup Script v1.0.3 loaded");
 
     /**************************************
      * CONFIG
