@@ -1,19 +1,20 @@
 // ==UserScript==
 // @name         Siebel Insurance Expiry Telecaller Popup
 // @namespace    https://tcmotors.internal
-// @version      1.0.1
+// @version      1.0.2
 // @description  Insurance expiry popup inside Siebel Vehicles page
 // @match        https://carsdms.inservices.tatamotors.com/*
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
 // @connect      script.googleusercontent.com
+// @connect      script.google.com
 // @updateURL    https://raw.githubusercontent.com/anujchowdhury/siebel-insurance-popup/main/siebel-telecaller-popup.user.js
 // @downloadURL  https://raw.githubusercontent.com/anujchowdhury/siebel-insurance-popup/main/siebel-telecaller-popup.user.js
 // ==/UserScript==
 
 (function () {
     'use strict';
-    console.log("📞 Telecaller Insurance Popup Script v1.0.1 loaded");
+    console.log("📞 Telecaller Insurance Popup Script v1.0.2 loaded");
 
     /**************************************
      * CONFIG
